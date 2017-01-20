@@ -1,2 +1,2 @@
 # deep_learning
-Deep learning lesson notebooks and projects
+Deep learning lessons and notebooks
